@@ -1,0 +1,26 @@
+body{
+    color:whitesmoke;
+}
+
+h1{
+    top: 1700px;
+    color: black;
+    text-align: center;
+}
+
+nav li{
+    display: inline;
+    position: relative;
+    left: 500px;
+    right: 1500px;
+    width: 150px;
+    height: 250px;
+    
+}
+
+button{
+    border-color: gold;
+    color: goldenrod;
+    border-radius: 5px;
+    margin: 20px 10px;
+}
