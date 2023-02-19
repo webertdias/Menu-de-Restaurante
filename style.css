@@ -3,7 +3,7 @@ body{
     margin: 0 auto;
     width: 90vw;
     max-width: 2500px;
-    display: inline-flex;
+    display: flex;
     gap: 3rem 2rem;
     justify-items: center; 
 }
