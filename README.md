@@ -7,8 +7,7 @@ Desenvolvido com
 .HTML
 .CSS
 
-Autor
-Desenvolvido por Webert Dias
+Autor Webert Dias
 
 Expressões de Gratidão
 
